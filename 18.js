@@ -1,0 +1,1 @@
+confirm("Do you really want ri delete thus picture permanently");
